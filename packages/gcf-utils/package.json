@@ -42,7 +42,7 @@
     "get-stream": "^6.0.1",
     "into-stream": "^6.0.0",
     "jsonwebtoken": "^9.0.0",
-    "octokit-auth-probot": "^2.0.1",
+    "octokit-auth-probot": "^4.0.0",
     "pino": "^8.4.2",
     "probot": "^13.4.4",
     "tmp": "^0.2.1",
