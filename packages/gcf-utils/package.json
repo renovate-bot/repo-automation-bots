@@ -43,7 +43,7 @@
     "into-stream": "^6.0.0",
     "jsonwebtoken": "^9.0.0",
     "octokit-auth-probot": "^2.0.1",
-    "pino": "^8.4.2",
+    "pino": "^9.0.0",
     "probot": "^13.4.4",
     "tmp": "^0.2.1",
     "uuid": "^9.0.0",
