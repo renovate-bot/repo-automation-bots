@@ -33,7 +33,7 @@
     "gcf-utils": "^17.0.0",
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^9.0.0",
-    "yargs": "^17.5.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/extend": "^3.0.1",
