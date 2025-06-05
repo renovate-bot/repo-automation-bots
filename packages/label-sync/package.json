@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^7.0.0",
-    "gaxios": "^5.0.1",
+    "gaxios": "^6.0.0",
     "gcf-utils": "^17.0.0",
     "jsonwebtoken": "^9.0.0"
   },
