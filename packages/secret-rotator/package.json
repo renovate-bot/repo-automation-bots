@@ -56,7 +56,7 @@
     "@probot/octokit-plugin-config": "^2.0.1",
     "express": "^4.18.1",
     "gcf-utils": "17.0.0",
-    "google-auth-library": "^9.14.1",
+    "google-auth-library": "^10.0.0",
     "jsonwebtoken": "^9.0.0",
     "probot": "^13.4.4",
     "yargs": "^17.7.2"
