@@ -85,7 +85,7 @@
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^9.0.0",
     "minimatch": "^5.1.0",
-    "probot": "^13.4.4",
+    "probot": "^14.0.0",
     "tmp": "^0.2.1",
     "yargs": "^17.5.1"
   },
