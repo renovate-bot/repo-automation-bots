@@ -19,7 +19,7 @@
     "genkey": "./build/src/bin/genkey.js"
   },
   "dependencies": {
-    "@google-cloud/run": "^1.4.0",
+    "@google-cloud/run": "^3.0.0",
     "@google-cloud/secret-manager": "^5.6.0",
     "@google-cloud/storage": "^7.12.1",
     "@google-cloud/tasks": "^5.5.0",
