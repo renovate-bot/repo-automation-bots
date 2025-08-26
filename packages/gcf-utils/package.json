@@ -27,7 +27,7 @@
     "@octokit/graphql": "^7.1.1",
     "@octokit/request": "^8.4.1",
     "@octokit/rest": "^20.1.2",
-    "@probot/octokit-plugin-config": "^2.0.1",
+    "@probot/octokit-plugin-config": "^4.0.0",
     "@types/bunyan": "^1.8.8",
     "@types/dotenv": "^6.1.1",
     "@types/end-of-stream": "^1.4.1",
