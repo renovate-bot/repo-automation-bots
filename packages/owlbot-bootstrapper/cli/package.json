@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@google-cloud/cloudbuild": "^4.0.0",
-    "yargs": "^17.5.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/yargs": "^17.0.12",
