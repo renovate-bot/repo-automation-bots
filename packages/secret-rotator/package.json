@@ -58,7 +58,7 @@
     "gcf-utils": "17.1.2",
     "google-auth-library": "^9.14.1",
     "jsonwebtoken": "^9.0.0",
-    "probot": "^13.4.4",
+    "probot": "^14.0.0",
     "yargs": "^17.7.2"
   },
   "optionalDependencies": {
