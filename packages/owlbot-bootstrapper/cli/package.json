@@ -28,7 +28,7 @@
     "lint": "npm i; gts check"
   },
   "dependencies": {
-    "@google-cloud/cloudbuild": "^4.0.0",
+    "@google-cloud/cloudbuild": "^5.0.0",
     "js-yaml": "^4.1.1",
     "yargs": "^17.5.1"
   },

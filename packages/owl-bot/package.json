@@ -70,7 +70,7 @@
   "dependencies": {
     "@google-automations/datastore-lock": "^7.0.0",
     "@google-automations/label-utils": "^6.0.0",
-    "@google-cloud/cloudbuild": "^4.5.0",
+    "@google-cloud/cloudbuild": "^5.0.0",
     "@octokit/core": "^5.0.0",
     "@octokit/plugin-retry": "^6.1.0",
     "@octokit/rest": "^20.1.1",
