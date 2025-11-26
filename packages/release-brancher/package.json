@@ -29,7 +29,7 @@
     "@octokit/rest": "^20.1.2",
     "code-suggester": "^5.0.0",
     "js-yaml": "^4.1.1",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^3.0.0",
     "yargs": "^17.5.1"
   },
   "devDependencies": {
