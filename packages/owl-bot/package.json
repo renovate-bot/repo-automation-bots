@@ -80,7 +80,7 @@
     "firebase-admin": "^12.4.0",
     "follow-redirects": "^1.15.2",
     "fs-extra": "^11.0.0",
-    "gaxios": "^5.0.1",
+    "gaxios": "^7.0.0",
     "gcf-utils": "^17.1.2",
     "glob": "^8.0.3",
     "js-yaml": "^4.1.1",
