@@ -45,7 +45,7 @@
     "jsonwebtoken": "^9.0.3",
     "octokit-auth-probot": "^2.0.1",
     "pino": "^9.11.0",
-    "probot": "^13.4.4",
+    "probot": "^14.0.0",
     "uuid": "^9.0.0",
     "yargs": "^17.0.0"
   },
