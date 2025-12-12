@@ -32,7 +32,7 @@
     "mocha": "^10.0.0",
     "nock": "^13.2.9",
     "node-fetch": "^2.6.0",
-    "semistandard": "^16.0.1",
+    "semistandard": "^17.0.0",
     "sinon": "^15.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.7.3"
