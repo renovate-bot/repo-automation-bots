@@ -34,7 +34,7 @@
     "js-yaml": "^4.1.1"
   },
   "devDependencies": {
-    "@octokit/types": "^8.0.0",
+    "@octokit/types": "^16.0.0",
     "@types/mocha": "^10.0.0",
     "@types/node": "^18.7.15",
     "@types/sinon": "^10.0.13",

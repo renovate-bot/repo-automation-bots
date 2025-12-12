@@ -32,7 +32,7 @@
     "@google-automations/datastore-lock": "^7.0.0",
     "@google-automations/issue-utils": "^5.0.0",
     "@google-automations/label-utils": "^6.0.0",
-    "@octokit/rest": "^20.1.1",
+    "@octokit/rest": "^22.0.0",
     "gcf-utils": "^17.1.2",
     "jsonwebtoken": "^9.0.3",
     "release-please": "^17.1.3"

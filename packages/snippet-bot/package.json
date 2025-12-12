@@ -45,7 +45,7 @@
     "tmp-promise": "^3.0.3"
   },
   "devDependencies": {
-    "@octokit/webhooks-types": "^6.3.6",
+    "@octokit/webhooks-types": "^7.0.0",
     "@types/follow-redirects": "^1.14.1",
     "@types/js-yaml": "^4.0.9",
     "@types/minimatch": "^5.1.2",
