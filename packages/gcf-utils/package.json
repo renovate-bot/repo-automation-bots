@@ -47,7 +47,7 @@
     "pino": "^9.11.0",
     "probot": "^13.4.4",
     "uuid": "^9.0.0",
-    "yargs": "^17.0.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/get-stream": "^3.0.2",
